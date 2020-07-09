@@ -23,11 +23,15 @@
         subMaxLevel: 2,
         loadNavbar: true,
         search: {
-          maxAge: 86400000,
-          paths: 'auto',
-          placeholder: '搜尋',
-          noData: '找不到結果',
-          depth: 2
+          maxAge: 86400000, // 過期時間，單位毫秒，默認一天
+          paths: ['/'], // or 'auto'
+          placeholder: {
+            '/': '搜尋'
+          },
+          noData: {
+            '/': '找不到結果'
+          },
+          depth: 6
         }
       };
     </script>
