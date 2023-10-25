@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15068356814696834362</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>749838950407884779</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 01 - 前言</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:59.000000000</ChapterTimeStart>
+      <ChapterUID>5959555449179973942</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 02 - 網頁不可以顯示 X 軸</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:45.000000000</ChapterTimeStart>
+      <ChapterUID>5070361008631596970</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 03 - 響應式鐵則</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:04:29.000000000</ChapterTimeStart>
+      <ChapterUID>14359848396065329394</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 04 - 語法 max-width</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:42.000000000</ChapterTimeStart>
+      <ChapterUID>13125837048222033969</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 05 - img運用max-width的效益</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:13:26.000000000</ChapterTimeStart>
+      <ChapterUID>9768419322534418595</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 06 - 非 rwd 是否要加max-width？經驗談</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:50.000000000</ChapterTimeStart>
+      <ChapterUID>6317585467442880828</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Chapter 07 - 使用percent來設計</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
